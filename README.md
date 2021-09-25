@@ -1,41 +1,36 @@
-# Computational Neuroscience assignments of Bilkent University
+# Computational Neuroscience Projects of Bilkent University
 
-Here is a quick ToC of the repo.
-
-  Assignment 1: Linear Algebra and Probability Theory
-  Solving linear systems of equations
-  Pseudo-inverse calculation
-  Sparsest and Least Norm solutions to a linear system
-  Calculation of common statistics
-  Confidence Interval and Standard Error calculation
-  Resampling methods: Bootstrapping and Jackknifing
-  Reverse inference via Bayesian Statistics
-  Multivariate Normal Distribution
-  Standard Deviational Ellipse
-Assignment 2: Neural Models
-  Neuroelectronics
-  Leaky Integrate-and-Fire Neuron Model
-  Spike Triggerred Average (STA)
-  Lateral Geniculate Nuclei cells and their Neural Activity
-  Analysis of Neural Response
-  Difference of Gaussians center-surround receptive fields
-  Gabor receptive fields
-  Image processing and Convolution
-  Assignment 3: Supervised Learning
-  Ordinary Least Squares
-  Linear & Higher Order Linearized Models
-  Parametric & Nonparametric Nonlinear Models
-  Maximum Likelihood Estimator
-  Ridge Regression
-  Cross Validation
-  Hypothesis Testing
-Assignment 4: Supervised/Unsupervised Learning
-  Principal Component Analysis (PCA)
-  Independent Component Analysis (ICA)
-  Nonnegative Matrix Factorization (NNMF)
-  Classical Multi-dimensional Scaling (CMDS)
-  k-means Clustering
-  Winner Take All Decoder
-  Maximum Likelihood Decoder
-  Maximum-a-Posteriori Decoder
-  Linear Discriminant Analysis (LDA) Based Classifer
+## Assignment 1 : Linear Equations for Neural Cognitive Processes
+    * Linear Algebra & Probability Theory
+    * Linear Equations & Inverse Computations
+    * Sparsest and Least Norm Computing for Linear Equations
+    * Reverse Inference Cognitive Processes
+    * Bayesian Statistics & Descriptive Statistics
+    
+## Assignment 2: Neural Models & Neuron-wise Visual Estimations
+    * Spike Triggerred Average (STA)
+    * Spatio-temporal Stimulus Understanding
+    * Statistical Analysis of Neural Response
+    * Neural Image Processing & Filtering
+    * Difference of Gaussians (DoG) Filtering Receptive Fields
+    * Gabor Receptive Fields & Filtering
+    * Egde Detection & Otsu Thresholding
+    
+## Assignment 3: Supervised Learning for Neural Population in Human Visual Cortex
+    * OLS & Linear Regression
+    * General Linear Models
+    * Cross Validation & K-folds
+    * Bootstraping & Resampling
+    * Confidence Intervals & P-values
+    * Hypothesis Testing for Difference of Means, Correlations
+    * Parametric & Nonparametric Nonlinear Models
+    
+## Assignment 4: Supervised/Unsupervised Visual Perception
+    * Encoding & Decoding models for Visual Perception
+    * Principal Component Analysis (PCA)
+    * Independent Component Analysis (ICA)
+    * Nonnegative Matrix Factorization (NNMF)
+    * Winner Take All Decoder
+    * Maximum Likelihood Decoder
+    * Maximum-a-Posteriori Decoder
+    * Tuning Curves
